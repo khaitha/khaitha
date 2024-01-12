@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khaitha
-- 👀 I’m interested in ... Learning more about software engineering, I have 0 experience
+- 👀 I’m interested in ... Learning more about Machine Learning, Computer Vision, and many AI related.
 - 🌱 I’m currently learning ... UNCC Computer Science - Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord:Krai#3993
