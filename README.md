@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @khaitha
+- Currently looking for a job
 - 👀 I’m interested in ... Learning more about Machine Learning, Computer Vision, and many AI related.
 - 🌱 I’m currently learning ... UNCC Computer Science - Ai
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Ai related projects
 - 📫 How to reach me ... Discord:Krai#3993
 <!---
 khaitha/khaitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
